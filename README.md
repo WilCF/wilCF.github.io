@@ -8,4 +8,4 @@ title: CNIT 132
 
 ## These are files for CNIT 132 class.
 
-* **[Meetup Project(https://wilCF.github.io/)** 
+* **[Meetup Project](https://wilCF.github.io/)** 
